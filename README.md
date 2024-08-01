@@ -3,7 +3,7 @@
 The purpose for this analysis is to identify the creditworthiness of borrowers using what is called a Logistic Regression model, first with the original data and later with resampled training data to optimize the model.  The financial information consisted of various features including loan size, interest rate, borrow income, etc.  These features will help predict the likeliness a borrower will default on their issued loan.  
 
 Results
-- 
+
 Machine Learning Model 1:
   - Accuracy
     - According to the confusion matrix the accuracy is 99%
